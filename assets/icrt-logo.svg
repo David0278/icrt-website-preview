@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 145" role="img" aria-labelledby="title desc">
+  <title id="title">ICRT Smart Welding logo</title>
+  <desc id="desc">Reverse ICRT logo with screenshot-traced lettering and a slim negative-gap I for dark backgrounds.</desc>
+  <path d="M26 24H52V48L26 29Z" fill="#FF0649"/>
+  <path d="M26 39L52 58V104H26Z" fill="#FFFFFF"/>
+  <path d="M126 24H93C69 24 58 39 58 64C58 89 69 104 93 104H126V89H97C81 89 75 81 75 64C75 47 81 39 97 39H126Z" fill="#FFFFFF"/>
+  <path d="M132 24H174C197 24 208 34 208 52C208 65 202 74 190 78L211 104H188L170 80H151V104H132ZM151 39V65H171C183 65 189 61 189 52C189 43 183 39 171 39Z" fill="#FFFFFF" fill-rule="evenodd"/>
+  <path d="M212 24H284V40H258V104H238V40H212Z" fill="#FFFFFF"/>
+  <text x="155" y="130" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="500" letter-spacing="0">SMART WELDING</text>
+</svg>

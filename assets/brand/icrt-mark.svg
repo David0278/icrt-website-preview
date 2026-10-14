@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 112" role="img" aria-labelledby="title desc">
+  <title id="title">ICRT negative-gap I mark</title>
+  <desc id="desc">Standalone ICRT mark with a red upper block, Ink lower block, and transparent diagonal gap.</desc>
+  <path d="M35 16H61V39L35 20Z" fill="#FF0649"/>
+  <path d="M35 29L61 48V96H35Z" fill="#080619"/>
+</svg>
